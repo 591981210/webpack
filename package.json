@@ -2,8 +2,9 @@
   "name": "webpack_demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "dependencies": {},
+  "private": true,
+  "dependencies": {
+  },
   "devDependencies": {
     "webpack": "^4.26.1",
     "webpack-cli": "^3.1.2"
