@@ -1,0 +1,25 @@
+{
+  "name": "webpack_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/591981210/webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/591981210/webpack/issues"
+  },
+  "homepage": "https://github.com/591981210/webpack#readme"
+}
