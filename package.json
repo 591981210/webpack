@@ -24,8 +24,8 @@
     "xml-loader": "^1.2.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --open --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js"
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
